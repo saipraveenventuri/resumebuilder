@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "V Sai Praveen",
+    "label": "Student",
+    "picture": "images/praveen2.jpg",
+    "email": "saipraveen14jan1996@gmail.com",
+    "phone": "919493843811",
+    "degree": "B.Tech",
+    "website": "",
+    "summary": "",
+    "highlights": null,
+    "location": {
+      "address": "1-245,lig-1-404,aphb colony",
+      "postalCode": "533106",
+      "city": "rajahmundry",
+      "countryCode": "India",
+      "region": "asia"
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "praveen.sai",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "web technologies",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}
